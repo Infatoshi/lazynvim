@@ -6,5 +6,5 @@
 
 ```
 cd ~/.config/nvim/lua
-git clone https://github.com/Infatoshi/lazy-nvim
+git clone https://github.com/Infatoshi/lazynvim
 ```
