@@ -9,4 +9,4 @@ cd ~/.config/nvim/lua
 git clone https://github.com/Infatoshi/lazynvim
 ```
 
-> Feel free to submit a PR if you want a plugin added
+> Feel free to submit a PR if you want a plugin added!
